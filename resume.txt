@@ -1,0 +1,152 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Sahul Kumar Parida}{}{ \urlstyle{same}\href{https://sahulkrparida.vercel.app/}{sahulkrparida.vercel.app}|
+\href{mailto:sahulkumarparida@gmail.com}{sahulkumarparida@gmail.com} | \href{tel:7439730856}{+917439730856}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+Operating Systems \\
+Computer Networks \\
+\sectionsep
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{CHANDIGARH UNIVERSITY}
+\descript{BE in Computer Science Engineering}
+\location{Aug 2024 | Chandigarh, India}
+\location{CGPA: 7.83}
+\sectionsep
+
+\subsection{National Gems Higher \\
+Secondary School}
+\descript{Intermediate (ISC Board)}
+\location{March 2020 | Kolkata, India}
+\location{Percentage: 88.5}
+\sectionsep
+
+\subsection{National Gems Higher \\
+Secondary School}
+\descript{Matriculation (ISCE Board)}
+\location{March 2018 | Kolkata, India}
+\location{Percentage: 88}
+\sectionsep
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/sahuljr7}{\bf sahuljr7} \\
+LinkedIn:// \href{https://www.linkedin.com/in/sahulkumarparida/}{\bf sahulkumarparida} \\
+YouTube://  \href{https://www.youtube.com/channel/UCMX0abw0WcXhkZVJHAtCuXA}{\bf Emgineer} \\
+Twitter://  \href{https://twitter.com/sahul_22_jr}{\bf @sahul} \\
+Leetcode://  \href{https://leetcode.com/sahuljr7/}{\bf sahuljr7} \\
+GeeksForGeeks:// \href{https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sahulkumarparida/profile}{\bf sahul} \\
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\location{Over 5000 lines:}
+\textbullet{} Java \textbullet{} JavaScript \\
+\location{Over 1000 lines:}
+\textbullet{} C \textbullet{} C++ \textbullet{} Solidity \\
+\location{Frameworks:}
+\textbullet{} React \\
+\location{Databases:}
+\textbullet{} Firebase \textbullet{} MongoDB \\
+\location{Version Control:}
+\textbullet{} Git \textbullet{} GitHub \\
+\sectionsep
+
+
+\section{Languages Known}
+\textbullet{} English \textbullet{} Bengali \textbullet{} Oriya \textbullet{} Hindi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{GOOGLE CLOUD}
+\descript{| GoogleCloudReady Facilitator Program }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item In-depth understanding of Google Cloud Platform (GCP).
+\item Practical experience with GCP tools and services.
+\item Understanding of cloud computing concepts and best practices.
+\end{tightemize}
+\sectionsep
+
+
+\runsubsection{MICROSOFT AZURE}
+\descript{| Future Ready Talent Internship }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Knowledge of Azure services.
+\item Hands-on experience with Azure Cloud.
+\item Cloud architecture and design skills.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Projects}
+\runsubsection{PERSONAL WEBSITE}
+\descript{| WEB}
+My personal website built with HTML, CSS and JavaScript. \\
+Live Demo: \textbf{\href{https://sahuljr7.github.io/sahulkumarparida/}{sahulkumarparida.github.io}}
+\sectionsep
+
+\runsubsection{WEB3 CROWDFUNDING PLATFORM}
+\descript{|  Blockchain}
+Decentralized crowdfunding platform to raise funds for a project or venture using Blockchain technology. \\
+Live Demo: 
+\textbf{\href{https://crowdfunding-sahuljr7.netlify.app/}{crowdfunding-sahuljr7.netlify.app}}
+\sectionsep
+
+\runsubsection{TIKTIK}
+\descript{|  Full Stack}
+A full stack video sharing social media platform build with React. \\
+Live Demo: 
+\textbf{\href{https://tiktik-ten.vercel.app/}{tiktik-ten.vercel.app/}}
+\sectionsep
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Publications} 
+\renewcommand\refname{\vskip -1.5em} % Couldn't get this working from the .cls file
+\bibliographystyle{abbrv}
+\bibliography{publications}
+\nocite{*}
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
